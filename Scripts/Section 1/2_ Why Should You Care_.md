@@ -34,6 +34,7 @@ Stalking is potentially harmful as well. Not only can this be in the form of
 harassment, but it can lead to violence or in rare cases, sometimes death.
 Technology has enabled stalkers to track their victims more efficiently and more
 accurately than ever before. I would read about Amy Boyer if you haven’t already.
+
 Last but not least, there’s Government Surveillance. The NSA developed Echelon,
 a spy network that monitors communication around the world. FinCEN retrieves
 personal financial information in real time. Xkeyscore instantly wiretaps
@@ -114,11 +115,11 @@ seriously. I will see you in the next lesson on security vs privacy, and don’t
 to normalize privacy.
 
 ## Changes
-- At https://youtu.be/M6_ZlkBYrxI?t=3m22s (3 minutes, 22 seconds) I say: 
+- At https://youtu.be/M6_ZlkBYrxI?t=3m22s (3 minutes, 22 seconds) I say:
 ```
 Any opposition to this is greeted by the response that if a person is doing anything wrong, they should have nothing to hide.
 ```
-- What I meant to say was: 
+- What I meant to say was:
 ```
 Any opposition to this is greeted by the response that if a person is doing nothing wrong, they should have nothing to hide.
 ```
